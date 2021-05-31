@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "pr1"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "C:\\Users\\frod2\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+}
